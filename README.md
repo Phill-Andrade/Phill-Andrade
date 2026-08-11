@@ -1,4 +1,4 @@
-# Olá, eu sou Phill 👋
+# Phill Andrade
 
 Em formação em Engenharia de Dados, desenvolvo projetos práticos com pipelines e processamento distribuído.
 
