@@ -48,7 +48,7 @@ Apache Hudi · Apache Airflow · Hive · HDFS · YARN · Parquet
 
 ### 🐍 Contribuições
 
-<p align="center"> <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Phill-Andrade/Phill-Andrade/output/github-contribution-grid-snake-dark.svg" /> </p>
 
 ### 🚀 Objetivo atual
 
